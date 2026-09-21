@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseSystemDrawing>true</UseSystemDrawing>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>OpenAIWorkTank</AssemblyName>
+    <ApplicationIcon>assets\OpenAIWorkTank.ico</ApplicationIcon>
+    <Version>0.1.2</Version>
+    <PublishSingleFile>true</PublishSingleFile>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+  </PropertyGroup>
+  <ItemGroup><Compile Remove="Tests\**\*.cs" /><Compile Remove="Installer\**\*.cs" /><Compile Remove="BackUp\**\*.cs" /></ItemGroup>
+</Project>
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType><TargetFramework>net8.0-windows</TargetFramework><UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>..\assets\OpenAIWorkTank.ico</ApplicationIcon><PublishSingleFile>true</PublishSingleFile><SelfContained>true</SelfContained>
+    <AssemblyName>OpenAIWorkTank-Setup</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup><EmbeddedResource Include="..\Final\OpenAIWorkTank.exe" LogicalName="OpenAIWorkTank.exe" /></ItemGroup>
+</Project>
+
+

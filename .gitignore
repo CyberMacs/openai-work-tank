@@ -1,0 +1,27 @@
+# .NET build output
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+
+# Locally generated publish and installer staging folders
+publish-*/
+publish-tmp/
+installer-publish*/
+installer-stage/
+installer-v*/
+
+# End-user builds: distribute through GitHub Releases, not Git history
+Final/
+
+# Local diagnostics and generated protocol files
+logs/
+schemas/
+docs/github-readiness/
+
+# Local safety copies
+BackUp/
+
+# Windows Explorer
+Thumbs.db
+Desktop.ini
