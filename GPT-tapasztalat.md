@@ -35,3 +35,5 @@ A Codex Desktop külön PATH-beállítás nélkül is tartalmazhat helyi codex.e
 
 ## 2026-09-21 - Nyilvános GitHub kiadás
 A repó előkészítésénél a GitHub előzetes ellenőrzése nagy bináris állományokat jelzett. A jó útvonal: a forrás, kézikönyv, licenc és build szkriptek kerülnek a repóba; a Final könyvtár nagy .exe fájljai .gitignore szabállyal kimaradnak, és szükség esetén GitHub Release-hez csatolhatók. A GPL-3.0 licencet a hivatalos GNU szöveggel kell tárolni LICENSE fájlban.
+
+A nyilvános repó sikeresen létrejött és a main ág fel lett töltve: https://github.com/CyberMacs/openai-work-tank .

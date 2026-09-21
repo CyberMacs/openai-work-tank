@@ -39,3 +39,5 @@ Nincs: új projekt indult, korábbi felhasználói projektfájl nem módosult.
 - Létrehozott: LICENSE (GNU GPL v3), .gitignore
 - Gitből kizárt végfelhasználói csomagok: Final/ és ideiglenes fordítási könyvtárak
 - Következő opcionális lépés: telepítő feltöltése GitHub Release csatolmányként.
+
+- Nyilvános tároló: https://github.com/CyberMacs/openai-work-tank (main ág)
