@@ -16,3 +16,5 @@ A program most a Codex Desktop saját helyi CLI-fájlját is felismeri. A tálca
 A forráskód nyilvános megosztásra lett előkészítve. A felhasználó a nyilvános láthatóságot és a GNU GPL v3 licencet választotta. A telepítő- és alkalmazásfájlok méretük miatt nem kerülnek a Git előzményeibe; ezek kiadási csatolmányként kezelhetők.
 
 A nyilvános forráskód-tár elkészült: https://github.com/CyberMacs/openai-work-tank . A main ág alapértelmezett ágként lett feltöltve.
+
+A v0.1.2 kiadás telepítője és önálló programja GitHub Release-ként is felkerült, ezért a végfelhasználók forráskód fordítása nélkül telepíthetik vagy futtathatják a programot.

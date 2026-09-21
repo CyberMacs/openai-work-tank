@@ -27,3 +27,6 @@ cd D:\Ai Apps\ChatGPT Codex\Everyday\2026-09-21-app-winexe-openai-work-tank
 ```
 
 A build az önálló alkalmazást a `Final\OpenAIWorkTank.exe`, a telepítőt a `Final\OpenAIWorkTank-Setup.exe` útvonalra készíti. A `Final` mappa bináris fájljai nem részei a Git-tárolónak; ezeket GitHub Release kiadásban érdemes közzétenni.
+
+## Letöltés és telepítés
+A kész Windows 10/11 telepítő a [v0.1.2 GitHub Release](https://github.com/CyberMacs/openai-work-tank/releases/tag/v0.1.2) oldalon található. A legtöbb felhasználónak az OpenAIWorkTank-Setup-v0.1.2.exe fájlt kell letöltenie és elindítania. Az OpenAIWorkTank-v0.1.2.exe telepítés nélkül is futtatható, önálló változat.

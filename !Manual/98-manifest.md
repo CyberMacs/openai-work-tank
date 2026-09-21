@@ -41,3 +41,6 @@ Nincs: új projekt indult, korábbi felhasználói projektfájl nem módosult.
 - Következő opcionális lépés: telepítő feltöltése GitHub Release csatolmányként.
 
 - Nyilvános tároló: https://github.com/CyberMacs/openai-work-tank (main ág)
+
+- Publikált végfelhasználói kiadás: https://github.com/CyberMacs/openai-work-tank/releases/tag/v0.1.2
+- Release fájlok: OpenAIWorkTank-Setup-v0.1.2.exe és OpenAIWorkTank-v0.1.2.exe

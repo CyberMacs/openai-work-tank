@@ -5,3 +5,6 @@
 3. Bal kattintással megnyílik a részletes, kis állapotablak. A heti keret elsőként, az 5 órás keret csak másodlagosan látszik.
 4. Jobb kattintással kérhetsz azonnali frissítést, megnyithatod a naplókat, módosíthatod az automatikus indítást vagy kiléphetsz.
 5. Kérdőjel esetén nincs biztonsággal azonosítható heti kvóta. A naplóban megnézhetőek a kapott ablakok hosszei és az ok.
+
+## Kiadás letöltése
+A telepíthető változat nyilvánosan elérhető a GitHub Release oldalon: https://github.com/CyberMacs/openai-work-tank/releases/tag/v0.1.2 .

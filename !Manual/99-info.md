@@ -4,3 +4,5 @@ A program nem kér és nem tárol OpenAI API-kulcsot, jelszót vagy ChatGPT-süt
 
 ## Forráskód
 A nyilvános GPL-3.0 forráskód itt érhető el: https://github.com/CyberMacs/openai-work-tank .
+
+A kész telepítő letöltési oldala: https://github.com/CyberMacs/openai-work-tank/releases/tag/v0.1.2 .
